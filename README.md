@@ -2,6 +2,7 @@
 
 [![Kaushikkarnati](https://github-readme-stats.vercel.app/api?username=kaushikkarnati)](https://github.com/kaushikkarnati/github-readme-stats)
 ![kaushikkarnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikkarnati&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![kaushikkarnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushikkarnati&show_icons=true)
 <!--
 **KaushikKarnati/KaushikKarnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
