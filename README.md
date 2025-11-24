@@ -52,7 +52,7 @@ I am a data professional with 4+ years of experience in end-to-end data extracti
 ---
 
 <div align="center">
-<a href="[https://linkedin.com/in/your-profile" target](https://www.linkedin.com/in/kaushikkarnati/)="_blank">
+<a href="https://www.linkedin.com/in/kaushikkarnati/="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:karnati.ram99@gmail.com" target="_blank">
